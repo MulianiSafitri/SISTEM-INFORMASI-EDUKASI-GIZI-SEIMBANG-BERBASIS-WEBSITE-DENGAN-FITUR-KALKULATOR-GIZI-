@@ -59,13 +59,12 @@ Struktur Folder
 Cara Instalasi
 
 Clone repository ke folder htdocs.
-
 Buat database dan import file SQL.
-
 Sesuaikan konfigurasi koneksi database.
+Jalankan aplikasi melalui browser.
 
 username : Admin
 Password : Password
 
-Jalankan aplikasi melalui browser.
+
  
