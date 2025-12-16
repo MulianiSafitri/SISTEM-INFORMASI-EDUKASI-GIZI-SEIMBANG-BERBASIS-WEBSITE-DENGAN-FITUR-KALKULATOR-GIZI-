@@ -43,7 +43,7 @@ Website ini adalah sistem informasi gizi yang dibangun menggunakan PHP Procedura
 
 **Admin:**
 - Username: `admin`
-- Password: `password123`
+- Password: `password`
 
 **User (Contoh):**
 - Anda bisa mendaftar akun baru melalui halaman Register.
@@ -59,3 +59,4 @@ Website ini adalah sistem informasi gizi yang dibangun menggunakan PHP Procedura
 - Sistem menggunakan `password_hash()` untuk keamanan password.
 - Semua query database menggunakan Prepared Statements (PDO) untuk mencegah SQL Injection.
 - Fitur rekomendasi menggunakan implementasi TF-IDF sederhana.
+
